@@ -1,0 +1,152 @@
+        <Macro name="Fix Google Translated Gutenber tags" Ctrl="yes" Alt="no" Shift="yes" Key="67">
+            <Action type="3" message="1700" wParam="0" lParam="0" sParam="" />
+            <Action type="3" message="1601" wParam="0" lParam="0" sParam="&lt;! - wp: " />
+            <Action type="3" message="1625" wParam="0" lParam="2" sParam="" />
+            <Action type="3" message="1602" wParam="0" lParam="0" sParam="&lt;!-- wp:" />
+            <Action type="3" message="1702" wParam="0" lParam="768" sParam="" />
+            <Action type="3" message="1701" wParam="0" lParam="1609" sParam="" />
+            <Action type="0" message="2178" wParam="0" lParam="0" sParam="" />
+            <Action type="0" message="2178" wParam="0" lParam="0" sParam="" />
+            <Action type="0" message="2178" wParam="0" lParam="0" sParam="" />
+            <Action type="3" message="1700" wParam="0" lParam="0" sParam="" />
+            <Action type="3" message="1601" wParam="0" lParam="0" sParam=" -&gt;" />
+            <Action type="3" message="1625" wParam="0" lParam="2" sParam="" />
+            <Action type="3" message="1602" wParam="0" lParam="0" sParam=" --&gt;" />
+            <Action type="3" message="1702" wParam="0" lParam="768" sParam="" />
+            <Action type="3" message="1701" wParam="0" lParam="1609" sParam="" />
+            <Action type="0" message="2178" wParam="0" lParam="0" sParam="" />
+            <Action type="3" message="1700" wParam="0" lParam="0" sParam="" />
+            <Action type="3" message="1601" wParam="0" lParam="0" sParam="&lt;! - / wp: " />
+            <Action type="3" message="1625" wParam="0" lParam="2" sParam="" />
+            <Action type="3" message="1602" wParam="0" lParam="0" sParam="&lt;!-- / wp:" />
+            <Action type="3" message="1702" wParam="0" lParam="768" sParam="" />
+            <Action type="3" message="1701" wParam="0" lParam="1609" sParam="" />
+            <Action type="3" message="1700" wParam="0" lParam="0" sParam="" />
+            <Action type="3" message="1601" wParam="0" lParam="0" sParam="rubriek" />
+            <Action type="3" message="1625" wParam="0" lParam="2" sParam="" />
+            <Action type="3" message="1602" wParam="0" lParam="0" sParam="heading" />
+            <Action type="3" message="1702" wParam="0" lParam="768" sParam="" />
+            <Action type="3" message="1701" wParam="0" lParam="1609" sParam="" />
+            <Action type="3" message="1700" wParam="0" lParam="0" sParam="" />
+            <Action type="3" message="1601" wParam="0" lParam="0" sParam="paragraaf" />
+            <Action type="3" message="1625" wParam="0" lParam="2" sParam="" />
+            <Action type="3" message="1602" wParam="0" lParam="0" sParam="paragraph" />
+            <Action type="3" message="1702" wParam="0" lParam="768" sParam="" />
+            <Action type="3" message="1701" wParam="0" lParam="1609" sParam="" />
+            <Action type="0" message="2178" wParam="0" lParam="0" sParam="" />
+            <Action type="3" message="1700" wParam="0" lParam="0" sParam="" />
+            <Action type="3" message="1601" wParam="0" lParam="0" sParam="&lt;h2&gt; " />
+            <Action type="3" message="1625" wParam="0" lParam="2" sParam="" />
+            <Action type="3" message="1602" wParam="0" lParam="0" sParam="&lt;h2&gt;" />
+            <Action type="3" message="1702" wParam="0" lParam="768" sParam="" />
+            <Action type="3" message="1701" wParam="0" lParam="1609" sParam="" />
+            <Action type="3" message="1700" wParam="0" lParam="0" sParam="" />
+            <Action type="3" message="1601" wParam="0" lParam="0" sParam="&lt;h3&gt; " />
+            <Action type="3" message="1625" wParam="0" lParam="2" sParam="" />
+            <Action type="3" message="1602" wParam="0" lParam="0" sParam="&lt;h3&gt;" />
+            <Action type="3" message="1702" wParam="0" lParam="768" sParam="" />
+            <Action type="3" message="1701" wParam="0" lParam="1609" sParam="" />
+            <Action type="3" message="1700" wParam="0" lParam="0" sParam="" />
+            <Action type="3" message="1601" wParam="0" lParam="0" sParam="&lt;h4&gt; " />
+            <Action type="3" message="1625" wParam="0" lParam="2" sParam="" />
+            <Action type="3" message="1602" wParam="0" lParam="0" sParam="&lt;h4&gt;" />
+            <Action type="3" message="1702" wParam="0" lParam="768" sParam="" />
+            <Action type="3" message="1701" wParam="0" lParam="1609" sParam="" />
+            <Action type="3" message="1700" wParam="0" lParam="0" sParam="" />
+            <Action type="3" message="1601" wParam="0" lParam="0" sParam="&lt;h5&gt; " />
+            <Action type="3" message="1625" wParam="0" lParam="2" sParam="" />
+            <Action type="3" message="1602" wParam="0" lParam="0" sParam="&lt;h5&gt;" />
+            <Action type="3" message="1702" wParam="0" lParam="768" sParam="" />
+            <Action type="3" message="1701" wParam="0" lParam="1609" sParam="" />
+            <Action type="3" message="1700" wParam="0" lParam="0" sParam="" />
+            <Action type="3" message="1601" wParam="0" lParam="0" sParam="&lt;h6&gt; " />
+            <Action type="3" message="1625" wParam="0" lParam="2" sParam="" />
+            <Action type="3" message="1602" wParam="0" lParam="0" sParam="&lt;h6&gt;" />
+            <Action type="3" message="1702" wParam="0" lParam="768" sParam="" />
+            <Action type="3" message="1701" wParam="0" lParam="1609" sParam="" />
+            <Action type="0" message="2178" wParam="0" lParam="0" sParam="" />
+            <Action type="0" message="2178" wParam="0" lParam="0" sParam="" />
+            <Action type="3" message="1700" wParam="0" lParam="0" sParam="" />
+            <Action type="3" message="1601" wParam="0" lParam="0" sParam=" &lt;/h2&gt;" />
+            <Action type="3" message="1625" wParam="0" lParam="2" sParam="" />
+            <Action type="3" message="1602" wParam="0" lParam="0" sParam="&lt;/h2&gt;" />
+            <Action type="3" message="1702" wParam="0" lParam="768" sParam="" />
+            <Action type="3" message="1701" wParam="0" lParam="1609" sParam="" />
+            <Action type="3" message="1700" wParam="0" lParam="0" sParam="" />
+            <Action type="3" message="1601" wParam="0" lParam="0" sParam=" &lt;/h3&gt;" />
+            <Action type="3" message="1625" wParam="0" lParam="2" sParam="" />
+            <Action type="3" message="1602" wParam="0" lParam="0" sParam="&lt;/h3&gt;" />
+            <Action type="3" message="1702" wParam="0" lParam="768" sParam="" />
+            <Action type="3" message="1701" wParam="0" lParam="1609" sParam="" />
+            <Action type="3" message="1700" wParam="0" lParam="0" sParam="" />
+            <Action type="3" message="1601" wParam="0" lParam="0" sParam=" &lt;/h4&gt;" />
+            <Action type="3" message="1625" wParam="0" lParam="2" sParam="" />
+            <Action type="3" message="1602" wParam="0" lParam="0" sParam="&lt;/h4&gt;" />
+            <Action type="3" message="1702" wParam="0" lParam="768" sParam="" />
+            <Action type="3" message="1701" wParam="0" lParam="1609" sParam="" />
+            <Action type="3" message="1700" wParam="0" lParam="0" sParam="" />
+            <Action type="3" message="1601" wParam="0" lParam="0" sParam=" &lt;/h5&gt;" />
+            <Action type="3" message="1625" wParam="0" lParam="2" sParam="" />
+            <Action type="3" message="1602" wParam="0" lParam="0" sParam="&lt;/h5&gt;" />
+            <Action type="3" message="1702" wParam="0" lParam="768" sParam="" />
+            <Action type="3" message="1701" wParam="0" lParam="1609" sParam="" />
+            <Action type="3" message="1700" wParam="0" lParam="0" sParam="" />
+            <Action type="3" message="1601" wParam="0" lParam="0" sParam=" &lt;/h6&gt;" />
+            <Action type="3" message="1625" wParam="0" lParam="2" sParam="" />
+            <Action type="3" message="1602" wParam="0" lParam="0" sParam="&lt;/h6&gt;" />
+            <Action type="3" message="1702" wParam="0" lParam="768" sParam="" />
+            <Action type="3" message="1701" wParam="0" lParam="1609" sParam="" />
+            <Action type="0" message="2178" wParam="0" lParam="0" sParam="" />
+            <Action type="3" message="1700" wParam="0" lParam="0" sParam="" />
+            <Action type="3" message="1601" wParam="0" lParam="0" sParam="&lt;p&gt; " />
+            <Action type="3" message="1625" wParam="0" lParam="2" sParam="" />
+            <Action type="3" message="1602" wParam="0" lParam="0" sParam="&lt;p&gt;" />
+            <Action type="3" message="1702" wParam="0" lParam="768" sParam="" />
+            <Action type="3" message="1701" wParam="0" lParam="1609" sParam="" />
+            <Action type="3" message="1700" wParam="0" lParam="0" sParam="" />
+            <Action type="3" message="1601" wParam="0" lParam="0" sParam=" &lt;/p&gt;" />
+            <Action type="3" message="1625" wParam="0" lParam="2" sParam="" />
+            <Action type="3" message="1602" wParam="0" lParam="0" sParam="&lt;/p&gt;" />
+            <Action type="3" message="1702" wParam="0" lParam="768" sParam="" />
+            <Action type="3" message="1701" wParam="0" lParam="1609" sParam="" />
+            <Action type="0" message="2178" wParam="0" lParam="0" sParam="" />
+            <Action type="0" message="2178" wParam="0" lParam="0" sParam="" />
+            <Action type="3" message="1700" wParam="0" lParam="0" sParam="" />
+            <Action type="3" message="1601" wParam="0" lParam="0" sParam="&lt;strong&gt; " />
+            <Action type="3" message="1625" wParam="0" lParam="2" sParam="" />
+            <Action type="3" message="1602" wParam="0" lParam="0" sParam="&lt;strong&gt;" />
+            <Action type="3" message="1702" wParam="0" lParam="768" sParam="" />
+            <Action type="3" message="1701" wParam="0" lParam="1609" sParam="" />
+            <Action type="3" message="1700" wParam="0" lParam="0" sParam="" />
+            <Action type="3" message="1601" wParam="0" lParam="0" sParam=" &lt;/strong&gt;" />
+            <Action type="3" message="1625" wParam="0" lParam="2" sParam="" />
+            <Action type="3" message="1602" wParam="0" lParam="0" sParam="&lt;/strong&gt;" />
+            <Action type="3" message="1702" wParam="0" lParam="768" sParam="" />
+            <Action type="3" message="1701" wParam="0" lParam="1609" sParam="" />
+            <Action type="3" message="1700" wParam="0" lParam="0" sParam="" />
+            <Action type="3" message="1601" wParam="0" lParam="0" sParam=" = " />
+            <Action type="3" message="1625" wParam="0" lParam="2" sParam="" />
+            <Action type="3" message="1602" wParam="0" lParam="0" sParam="=" />
+            <Action type="3" message="1702" wParam="0" lParam="768" sParam="" />
+            <Action type="3" message="1701" wParam="0" lParam="1609" sParam="" />
+            <Action type="3" message="1700" wParam="0" lParam="0" sParam="" />
+            <Action type="3" message="1601" wParam="0" lParam="0" sParam=' &quot;' />
+            <Action type="3" message="1625" wParam="0" lParam="2" sParam="" />
+            <Action type="3" message="1602" wParam="0" lParam="0" sParam='&quot;' />
+            <Action type="3" message="1702" wParam="0" lParam="768" sParam="" />
+            <Action type="3" message="1701" wParam="0" lParam="1609" sParam="" />
+            <Action type="0" message="2178" wParam="0" lParam="0" sParam="" />
+            <Action type="3" message="1700" wParam="0" lParam="0" sParam="" />
+            <Action type="3" message="1601" wParam="0" lParam="0" sParam="&gt; " />
+            <Action type="3" message="1625" wParam="0" lParam="2" sParam="" />
+            <Action type="3" message="1602" wParam="0" lParam="0" sParam="&gt;" />
+            <Action type="3" message="1702" wParam="0" lParam="768" sParam="" />
+            <Action type="3" message="1701" wParam="0" lParam="1609" sParam="" />
+            <Action type="0" message="2178" wParam="0" lParam="0" sParam="" />
+            <Action type="3" message="1700" wParam="0" lParam="0" sParam="" />
+            <Action type="3" message="1601" wParam="0" lParam="0" sParam=" &lt;/" />
+            <Action type="3" message="1625" wParam="0" lParam="2" sParam="" />
+            <Action type="3" message="1602" wParam="0" lParam="0" sParam="&lt;/" />
+            <Action type="3" message="1702" wParam="0" lParam="768" sParam="" />
+            <Action type="3" message="1701" wParam="0" lParam="1609" sParam="" />
+        </Macro>
