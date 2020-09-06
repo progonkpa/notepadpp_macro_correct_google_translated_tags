@@ -1,4 +1,4 @@
-# Notepad++ macro to fix Google Translated Gutenber tags
+# Notepad++ macro to fix Google Translated Gutenberg tags
 
 ## Notepad++ macros file location Windows 7/8/10
 C:\Users\%username%\AppData\Roaming\Notepad++\shortcuts.xml
