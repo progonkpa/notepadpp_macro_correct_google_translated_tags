@@ -1,5 +1,10 @@
 # Notepad++ macro to fix Google Translated Gutenberg tags
 
+## Usage scenario
+You want to translate a Wordress post manually using Google translate. The quickest way to do this is to copy the post code from code editor en push it through Google Tranlsate. The problem is Google Translate messes up the tags. This macro corrects those errors.
+
+I created this macro to correct a translation from English to Dutch. If you're translating from or to another language, you'll have modify the macro.
+
 ## Notepad++ macros file location Windows 7/8/10
 C:\Users\%username%\AppData\Roaming\Notepad++\shortcuts.xml
 
