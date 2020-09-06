@@ -1,4 +1,4 @@
-        <Macro name="Fix Google Translated Gutenber tags" Ctrl="yes" Alt="no" Shift="yes" Key="67">
+        <Macro name="Fix Google Translated Gutenberg tags" Ctrl="yes" Alt="no" Shift="yes" Key="67">
             <Action type="3" message="1700" wParam="0" lParam="0" sParam="" />
             <Action type="3" message="1601" wParam="0" lParam="0" sParam="&lt;! - wp: " />
             <Action type="3" message="1625" wParam="0" lParam="2" sParam="" />
