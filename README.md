@@ -15,14 +15,14 @@ Insert the `<macro>...</macro>` code from the repo into the `<macros>...</macro>
 All actions in the code are string replacement actions.
 
 Copy an existing replacement sequence for example this paragraph:
-`
+```
             <Action type="3" message="1700" wParam="0" lParam="0" sParam="" />
             <Action type="3" message="1601" wParam="0" lParam="0" sParam="paragraaf" />
             <Action type="3" message="1625" wParam="0" lParam="2" sParam="" />
             <Action type="3" message="1602" wParam="0" lParam="0" sParam="paragraph" />
             <Action type="3" message="1702" wParam="0" lParam="768" sParam="" />
             <Action type="3" message="1701" wParam="0" lParam="1609" sParam="" />
-`
+```
 
 Modify as required.
 
