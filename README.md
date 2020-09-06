@@ -9,7 +9,7 @@ I created this macro to correct a translation from English to Dutch. If you're t
 C:\Users\%username%\AppData\Roaming\Notepad++\shortcuts.xml
 
 ## Insert the macro into the the marco file (shortcuts.xml).
-Insert the <macro>...</macro> code from the repo into the <macros>...</macro> tags.
+Insert the `<macro>...</macro>` code from the repo into the `<macros>...</macro>` tags.
 
 ## Modifying/adding a replacement action in an existing macro
 All actions in the code are string replacement actions.
